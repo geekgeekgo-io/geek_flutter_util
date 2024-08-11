@@ -1,9 +1,9 @@
 # File: flutter_logger/pubspec.yaml
 
-name: flutter_logger
-description: A simple logging utility for Flutter projects.
+name: geek_flutter_util
+description: A reusable flutter util for geek project
 version: 1.0.0
-homepage: https://github.com/yourusername/flutter_logger
+homepage: https://github.com/geekgeekgo-io/geek_flutter_util
 
 environment:
   sdk: '>=3.1.0 <4.0.0'

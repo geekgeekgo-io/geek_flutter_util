@@ -1,0 +1,17 @@
+# File: flutter_logger/pubspec.yaml
+
+name: flutter_logger
+description: A simple logging utility for Flutter projects.
+version: 1.0.0
+homepage: https://github.com/yourusername/flutter_logger
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
